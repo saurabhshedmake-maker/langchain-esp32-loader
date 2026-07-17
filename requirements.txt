@@ -1,3 +1,4 @@
+
 ipykernel
 langchain_community
 sentence_transformers
@@ -5,4 +6,5 @@ langchain_huggingface
 faiss_cpu
 langchain-ollama
 streamlit
+b0eea4f0f1d5c9c64913bd65391eea9a2eb70c23
 pypdf
